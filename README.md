@@ -1,3 +1,3 @@
 # FirstRepo
 My first repository 
-Author- Rajeev Pathania 
+Author- Rajeev Pathania alias(RP)
